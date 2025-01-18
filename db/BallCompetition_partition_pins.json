@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "reg_ab[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reg_ab[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led_time[7]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sw_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sw_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sw_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rstn",
+					"strict" : false
+				},
+				{
+					"name" : "sw_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "key_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key_in[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Fan Ruixin/Quartus test/BallCompetition/simulation/modelsim
+T_opt
+Z1 !s110 1703523953
+VDNXL<Ro66Oge]NEg;81931
+04 18 4 work BallCompetition_tb fast 0
+=1-e0c264b59a9b-6589b671-34b-8aac
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vBallCompetition
+R1
+!i10b 1
+!s100 ?C@coFW2i;:K2CQIN5j`S3
+IZ;WjzK@eG9J4O@dLjAN;N0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1703516543
+8D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition.v
+FD:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition.v
+L0 3
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+Z5 !s108 1703523953.000000
+!s107 D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Fan Ruixin/Quartus test/BallCompetition|D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work {+incdir+D:/Fan Ruixin/Quartus test/BallCompetition} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@ball@competition
+vBallCompetition_tb
+R1
+!i10b 1
+!s100 9^JT]eX6G5inkK3EHOEYA1
+IcD097i291`a;`;IQ<QcG21
+R3
+R0
+w1703523932
+8D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition_tb.v
+FD:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Fan Ruixin/Quartus test/BallCompetition|D:/Fan Ruixin/Quartus test/BallCompetition/BallCompetition_tb.v|
+!i113 0
+R6
+R7
+R2
+n@ball@competition_tb
+vDisplay
+R1
+!i10b 1
+!s100 dJ0TGF`YEadGGLdakoRdO3
+I4O^5L2L>E?CQAEAQm_[]R1
+R3
+R0
+w1703522074
+8D:/Fan Ruixin/Quartus test/BallCompetition/Display.v
+FD:/Fan Ruixin/Quartus test/BallCompetition/Display.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Fan Ruixin/Quartus test/BallCompetition/Display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Fan Ruixin/Quartus test/BallCompetition|D:/Fan Ruixin/Quartus test/BallCompetition/Display.v|
+!i113 0
+R6
+R7
+R2
+n@display
+vkey_debounce
+R1
+!i10b 1
+!s100 BZNLl@lYnd1[o3X?Q[nK41
+I:ld_AJJ8[c8eT=`n?8dHn2
+R3
+R0
+w1703516492
+8D:/Fan Ruixin/Quartus test/BallCompetition/key_debounce.v
+FD:/Fan Ruixin/Quartus test/BallCompetition/key_debounce.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Fan Ruixin/Quartus test/BallCompetition/key_debounce.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Fan Ruixin/Quartus test/BallCompetition|D:/Fan Ruixin/Quartus test/BallCompetition/key_debounce.v|
+!i113 0
+R6
+R7
+R2
+vsegment
+R1
+!i10b 1
+!s100 hY[Ki8MCjmNRkCbj75VUC1
+INlLEURhAz>Bfigen>fa:32
+R3
+R0
+w1703516468
+8D:/Fan Ruixin/Quartus test/BallCompetition/segment.v
+FD:/Fan Ruixin/Quartus test/BallCompetition/segment.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Fan Ruixin/Quartus test/BallCompetition/segment.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Fan Ruixin/Quartus test/BallCompetition|D:/Fan Ruixin/Quartus test/BallCompetition/segment.v|
+!i113 0
+R6
+R7
+R2
